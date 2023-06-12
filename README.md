@@ -1,8 +1,8 @@
 # Excellent Note Desk
 
 Приложение для планирования своих задач и работы над проектами  
-Ссылка на сайт на хостинге: http://194.67.110.25:3000 или clck.ru/34gWLA
-Ссылка на документацию, и на видео работы приложения: https://drive.google.com/drive/folders/15t_zVqa8d05xxHNd4aIrbvcl2LtIS0Vv?usp=sharing
+Ссылка на сайт на хостинге: http://194.67.110.25:3000 или clck.ru/34gWLA  
+Ссылка на документацию, и на видео работы приложения: https://drive.google.com/drive/folders/15t_zVqa8d05xxHNd4aIrbvcl2LtIS0Vv?usp=sharing  
 Если сайт не доступен, то придется разворачивать проект локально
 
 ## Инструкция для запуска
